@@ -9,7 +9,7 @@
 
 - [Nick182](https://github.com/Nick182-n)
 - [Vitória Duran](https://github.com/vitoriaduran)
-- 
+- [Pedro Henrique](https://github.com/phpedruo)
 
 </details>
 
